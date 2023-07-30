@@ -105,7 +105,8 @@
 <br>
 
 #### 9️⃣ 사업자회원 마이페이지
-![함말해볼텨(사업자) 게시판](https://github.com/Maengmo/HamCompany/assets/117720344/5f69a02b-1744-4f93-b1f9-ae080deda12e)
+![사업자마이페이지-상세프로필](https://github.com/Maengmo/HamCompany/assets/117720344/6498b7e9-bd61-4c72-93e7-105a12c8786e)
+
 
 <br>
 
