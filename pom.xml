@@ -7,7 +7,7 @@
 	<artifactId>hae</artifactId>
 	<name>HamCompany</name>
 	<packaging>war</packaging>
-	<version>1.0.0-BUILD-SNAPSHOT</version>
+	<version>1.0.0-BUILD-SNAPSHOT</version> 
 	<properties> 
 		<java-version>11</java-version>
 		<org.springframework-version>5.0.7.RELEASE</org.springframework-version>
